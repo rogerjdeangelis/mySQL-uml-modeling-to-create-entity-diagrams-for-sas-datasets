@@ -1,5 +1,9 @@
-mySQL uml modeling to create entity diagrams for sas datasets                                                                         
-                                                                                                                                      
+mySQL uml modeling to create entity diagrams for sas datasets  
+
+Entity Diagram
+https://tinyurl.com/yxfafnwq                                                                                                      
+https://github.com/rogerjdeangelis/mySQL-uml-modeling-to-create-entity-diagrams-for-sas-datasets/blob/master/my_little_schema.pdf 
+                                                                                                                                     
 github                                                                                                                                
 https://tinyurl.com/y6rj6z2b                                                                                                          
 https://github.com/rogerjdeangelis/mySQL-uml-modeling-to-create-entity-diagrams-for-sas-datasets                                      
