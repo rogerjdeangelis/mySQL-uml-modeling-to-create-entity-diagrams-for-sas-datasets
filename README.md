@@ -161,7 +161,7 @@ mySQL uml modeling to create entity diagrams for sas datasets
                                                                                                                                          
     * load tables into mysql;                                                                                                            
                                                                                                                                          
-    libname mysqllib mysql user=root password="sas28rlx" database=world port=3306;                                                       
+    libname mysqllib mysql user=root password="xxxxxxx" database=world port=3306;                                                       
                                                                                                                                          
     /*                                                                                                                                   
     proc sql;drop table dm  ;                                                                                                            
