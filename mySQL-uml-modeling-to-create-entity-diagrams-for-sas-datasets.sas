@@ -159,7 +159,7 @@ _ __  _ __ ___   ___ ___  ___ ___
                                                                                                                                       
 * load tables into mysql;                                                                                                             
                                                                                                                                       
-libname mysqllib mysql user=root password="sas28rlx" database=world port=3306;                                                        
+libname mysqllib mysql user=root password="xxxxxxxx" database=world port=3306;                                                        
                                                                                                                                       
 /*                                                                                                                                    
 proc sql;drop table dm  ;                                                                                                             
